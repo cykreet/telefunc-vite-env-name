@@ -3,8 +3,8 @@ Example of using Telefunc with [Vite](https://vitejs.dev) and [Vike](https://vik
 To run it:
 
 ```bash
-git clone git@github.com:telefunc/telefunc
-cd telefunc/examples/vike/
-bun  install
+git clone git@github.com:cykreet/telefunc-vite-env-name.git 
+cd telefunc-vite-env-name
+bun install
 bun run dev
 ```
